@@ -1,2 +1,2 @@
 # firstdemo
-Author- Amit Sinha
+Author- Amit Sinha(Software Developer)
